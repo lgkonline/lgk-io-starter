@@ -27,6 +27,6 @@
     "webpack": "^3.12.0"
   },
   "dependencies": {
-    "lgk-ui": "^3.0.0"
+    "lgk-ui": "^3.0.2"
   }
 }

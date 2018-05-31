@@ -1,7 +1,7 @@
 import React from "react";
 
 // Imports components for Grid and Menu items
-import { Grid, MenuItem } from "@lgk/orange-ui";
+import { Grid, MenuItem } from "lgk-ui";
 
 // Import of a page
 import HomePage from "../pages/HomePage";

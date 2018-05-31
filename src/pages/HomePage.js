@@ -1,5 +1,5 @@
 import React from "react";
-import { Page } from "@lgk/orange-ui";
+import { Page } from "lgk-ui";
 
 class HomePage extends React.Component {
     render() {
